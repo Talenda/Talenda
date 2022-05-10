@@ -25,7 +25,7 @@ Junior Web Developer, Designer, Data Scientist
 
 ### Badges
 <p align="left">
-<a target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Talenda/badges/large" width="50" height="50" alt="Codewars" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Talenda/badges/large" width="500" height="150" alt="Codewars" /></a>
 
 <b>My GitHub Stats</b>
 
