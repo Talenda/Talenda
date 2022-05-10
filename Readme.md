@@ -30,7 +30,7 @@ Junior Web Developer, Designer, Data Scientist
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Talenda"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&card&customcolor=bg:000000_fg:a855f7_text:84cc16_logo:84cc16&_stroke:621F9D" width="700" height="500" alt="Codewars"/></a>
+<a href="http://www.github.com/Talenda"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&card&customcolor=bg:000000_fg:a855f7_text:84cc16_logo:84cc16&_stroke:621F9D" width="500" height="300" alt="Codewars"/></a>
 
 <a href="http://www.github.com/Talenda"><img src="https://github-readme-stats.vercel.app/api?username=Talenda&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Talenda's GitHub stats" /></a>
 
