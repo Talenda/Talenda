@@ -1,5 +1,4 @@
 <p align="center">Talenda </p> 
-==============================
 <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 Hi 👋 My name is Gökhan Sevinç
 ==============================
