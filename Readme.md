@@ -1,3 +1,5 @@
+<a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&customcolor=bg:000000_fg:a855f7_text:84cc16_logo:84cc16_stroke:84cc16" width="500" height="150" alt="Codewars" /></a>
+
 Hi 👋 My name is Gökhan Sevinç
 ==============================
 
