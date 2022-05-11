@@ -1,14 +1,3 @@
-<head>
-<style>
-body {
-  background-image: url('https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style> </head>
-
-
 Hi 👋 My name is Gökhan Sevinç
 ==============================
 Junior Web Developer, Designer, Data Scientist
