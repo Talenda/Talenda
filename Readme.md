@@ -1,5 +1,3 @@
-<p align="center"><font size="+4">Talenda</font></p> 
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 Hi 👋 My name is Gökhan Sevinç
 ==============================
 Junior Web Developer, Designer, Data Scientist
@@ -9,6 +7,7 @@ Junior Web Developer, Designer, Data Scientist
 * 🧠  I'm learning R, R studio
 * ⚡  G.O.A.T
 
+<p align="center"><font size="+4">Talenda</font></p> 
 <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 
 ### Skills
