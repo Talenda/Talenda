@@ -30,7 +30,7 @@ Junior Web Developer, Designer, Data Scientist
 ### Badges
 <p align="left">
 <a target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Talenda/badges/large" width="500" height="150" alt="Codewars" /></a> 
-<a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&colormode=bright_mode" width="500" height="150" alt="Codewars" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&colormode=bright_mode" width="550" height="170" alt="Codewars" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&customcolor=bg:000000_fg:a855f7_text:84cc16_logo:84cc16_stroke:84cc16" width="500" height="150" alt="Codewars" /></a>
 
 <b>My GitHub Stats</b>
