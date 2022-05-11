@@ -1,5 +1,6 @@
 Hi 👋 My name is Gökhan Sevinç
 ==============================
+<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 
 Junior Web Developer, Designer, Data Scientist
 ----------------------------------------------
