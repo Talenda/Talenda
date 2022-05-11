@@ -22,7 +22,7 @@ Junior Web Developer, Designer, Data Scientist
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Talenda" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /></a> 
+<p align="left"> <a href="https://www.github.com/Talenda" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" /></a> 
 <a href="http://www.instagram.com/gokhannsevinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
