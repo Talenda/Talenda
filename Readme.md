@@ -23,14 +23,14 @@ Junior Web Developer, Designer, Data Scientist
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Talenda" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/gokhannsevinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/gokhannsevinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a></p>
 
 <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 
 ### Badges
 <p align="left">
 <a target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Talenda/badges/large" width="500" height="150" alt="Codewars" /></a> 
-<a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&colormode=bright_mode" width="550" height="170" alt="Codewars" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&colormode=bright_mode" width="500" height="150" alt="Codewars" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Talenda&badge&customcolor=bg:000000_fg:a855f7_text:84cc16_logo:84cc16_stroke:84cc16" width="500" height="150" alt="Codewars" /></a>
 
 <b>My GitHub Stats</b>
