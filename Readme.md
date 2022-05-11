@@ -8,7 +8,7 @@ Junior Web Developer, Designer, Data Scientist
 * 🧠  I'm learning R, R studio
 * ⚡  G.O.A.T
 
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="600" height="250" alt="Codewars" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="800" height="200" alt="Codewars" /></a>
 
 ### Skills
 
