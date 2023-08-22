@@ -24,7 +24,7 @@ Junior Web Developer, Designer, Data Scientist
 
 <p align="left"> <a href="https://www.github.com/Talenda" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" /></a> 
 <a href="http://www.instagram.com/gokhannsevinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.kaggle.com/gkhansevin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="32" height="32" /></a></p>
+<a href="https://www.kaggle.com/gkhansevin" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" /></a></p>
 
 <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Talenda/Banner/main/AA.png" width="880" height="244" alt="Codewars" /></a>
 
